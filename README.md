@@ -41,14 +41,14 @@ Dimension Tables
 
 •	dim_dish → Dish Name
 
-Fact Table
+**Fact Table**
 •	fact_orders → Price, Rating, Rating_Count + Foreign Keys
 
 📊 This structure improves performance and simplifies reporting.
 ________________________________________
 ## 📊 Key Performance Indicators (KPIs)
 
-Basic Metrics
+## Basic Metrics
 
 •	Total Orders
 
@@ -58,9 +58,9 @@ Basic Metrics
 
 •	Average Rating
 
-Advanced Analysis
+## Advanced Analysis
 
-📅 Date-Based Insights
+## 📅 Date-Based Insights
 
 •	Monthly Trends
 
@@ -70,13 +70,13 @@ Advanced Analysis
 
 •	Day-of-Week Patterns
 
-📍 Location Analysis
+## 📍 Location Analysis
 
 •	Top Cities by Orders
 
 •	Revenue by State
 
-🍛 Food Performance
+## 🍛 Food Performance
 
 •	Top Restaurants
 
@@ -84,9 +84,9 @@ Advanced Analysis
 
 •	Most Ordered Dishes
 
-💰 Customer Spending
+## 💰 Customer Spending
 
-•	Order Value Distribution:
+## •	Order Value Distribution:
 
 o	Under 100
 
@@ -98,7 +98,7 @@ o	300–499
 
 o	500+
 
-⭐ Ratings Analysis
+## ⭐ Ratings Analysis
 
 •	Rating Distribution (1–5)
 ________________________________________
@@ -123,7 +123,7 @@ ________________________________________
 👉Dashboard: https://github.com/yogeshchaudhari-75/Swiggy_Power_BI_dashabord/blob/main/Screenshot%202026-06-21%20234219.png
 
 _______________________________________
-##📊 Key Insights
+## 📊 Key Insights
 
 •	Identified top-performing cities and restaurants
 
@@ -134,7 +134,7 @@ _______________________________________
 •	Evaluated rating trends and customer satisfaction
 
 ________________________________________
-##🎯 Project Outcome
+## 🎯 Project Outcome
 
 This project demonstrates:
 
